@@ -1,0 +1,7 @@
+{
+  "name": "CleanLens AI",
+  "description": "A high-end, AI-powered utility for removing watermarks and unwanted objects from photos and videos using Gemini 2.5 Flash and Veo technology.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
